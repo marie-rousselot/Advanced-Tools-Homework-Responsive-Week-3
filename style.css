@@ -52,6 +52,12 @@ p {
   color: white;
 }
 
+.project-link {
+  display: block;
+  text-align: center;
+  margin: 0 20px;
+}
+
 .secondary-link {
   border-radius: 4px;
   padding: 20px 15px;
